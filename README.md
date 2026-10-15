@@ -1,3 +1,9 @@
+<!-- MUDOU-PARA-O-CINCO 2026-10-15 -->
+> **Este repositório mudou para o cinco (15/10/2026).** Os pacotes (Guard Brasil, Guard Brasil MCP, egosbr, plugins) agora são gerados na pasta pacotes/plugins do cinco, com o histórico deste repositório.
+> Endereço novo: **https://github.com/enioxt/cinco/tree/main/pacotes/plugins**
+> Este aqui fica arquivado, só para leitura: o histórico continua inteiro aqui e nada foi apagado.
+> O EGOS agora tem dois repositórios: o **cinco** (público, github.com/enioxt/cinco) e o núcleo privado.
+
 # EGOS — plugins e pacotes abertos
 
 Este repositório é o espelho público dos plugins do [EGOS](https://egos.ia.br/portas/). Ele traz só os pacotes dos plugins, gerados a partir do repositório principal, que é privado. Cada atualização passa por varredura de segredo e de dado pessoal antes de chegar aqui.
